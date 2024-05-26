@@ -1,0 +1,1 @@
+Example How to overload the QDataStream &operator << and >>
