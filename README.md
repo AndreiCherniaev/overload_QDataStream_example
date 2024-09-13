@@ -1,1 +1,1 @@
-Example How to overload the QDataStream &operator << and >>
+Example How to overload the QDataStream &operator << and >>. If you have class with private field and you want to get access to it via operator overloading then see unique_ptr_operator_overloading_unique_ptr [example](https://github.com/AndreiCherniaev/unique_ptr_operator_overloading_unique_ptr).
